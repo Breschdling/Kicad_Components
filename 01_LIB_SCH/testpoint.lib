@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 1mmRect_SMD
+#
+DEF ~1mmRect_SMD TP 0 30 N N 1 F N
+F0 "TP" 0 150 50 H V C CNN
+F1 "1mmRect_SMD" 0 -50 50 H I C CNN
+F2 "testpoint:TestPoint_Pad_1.0x1.0mm" 200 0 50 H I C CNN
+F3 "N/A" 200 0 50 H I C CNN
+F4 "N/A" 100 250 60 H I C CNN "MFP"
+F5 "N/A" 200 350 60 H I C CNN "MFN"
+F6 "Test Pin 1mm rectangular" 300 450 60 H I C CNN "Description"
+DRAW
+S -25 50 25 100 0 1 0 N
+P 2 0 1 0 -20 60 20 60 N
+P 2 0 1 0 -20 70 20 70 N
+P 2 0 1 0 -20 80 20 80 N
+P 2 0 1 0 -20 90 20 90 N
+P 2 0 1 0 -10 50 -10 90 N
+P 2 0 1 0 0 50 0 100 N
+P 2 0 1 0 10 50 10 90 N
+X 1 1 0 0 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

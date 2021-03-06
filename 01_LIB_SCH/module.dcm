@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CYBLE-214009-00
+D BLE microcontroller module, SMD
+F http://www.cypress.com/file/223701/download
+$ENDCMP
+#
+$CMP IRM-60-24
+F https://www.meanwell.com/Upload/PDF/IRM-60/IRM-60-SPEC.PDF
+$ENDCMP
+#
+$CMP RPI_4+Run
+F E:\Datasheets\Electronics\ElectroMechanical\Connectors\RM_2.54mm\3M_2.54-Terminal-Headers-Bottom-Entry_ts2192
+$ENDCMP
+#
+$CMP SARA-R4
+D Modem LTE CAT-M1/NB
+F https://www.u-blox.com/sites/default/files/SARA-R4_DataSheet_%28UBX-16024152%29.pdf
+$ENDCMP
+#
+$CMP ZB7412-00A
+D TI BLE microcontroller module, LGA25
+F http://www.jorjin.com/upload/1507277886.pdf
+$ENDCMP
+#
+#End Doc Library

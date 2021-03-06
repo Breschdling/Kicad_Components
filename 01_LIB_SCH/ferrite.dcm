@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100R0603
+D Ferrite 100R 0603
+F https://www.murata.com/en-us/products/productdetail?partno=BLM18EG101TN1%23
+$ENDCMP
+#
+$CMP 120R0402
+D Ferrite 120R 0402
+F https://www.murata.com/en-us/products/productdata/8796740059166/ENFA0018.pdf
+$ENDCMP
+#
+$CMP 120R0805
+D Ferrite 120R 0805
+F https://www.murata.com/en-us/products/productdata/8796738977822/ENFA0005.pdf
+$ENDCMP
+#
+$CMP 330R0805
+D Ferrite 330R 0805
+F https://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=BLM21PG331SN1%23
+$ENDCMP
+#
+$CMP 47R0603
+D Ferrite 47R 0603
+F http://datasheet.octopart.com/BLM18BB470SN1D-Murata-datasheet-5314387.pdf
+$ENDCMP
+#
+$CMP 600R0402
+D Ferrite 600R 0402
+F https://www.murata.com/en-us/products/productdata/8796740059166/ENFA0018.pdf
+$ENDCMP
+#
+$CMP Ferrite_0805
+D Ferrite_0805
+$ENDCMP
+#
+$CMP Ferrite_1206
+D Ferrite_1206
+$ENDCMP
+#
+$CMP Ferrite_1210
+D Ferrite_1210
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,86 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AA2810ACGSK
+D LED bl side 2.8x0.8, SMD
+F http://www.kingbrightusa.com/images/catalog/SPEC/AA2810AVBS-D.pdf
+$ENDCMP
+#
+$CMP APA2107LZGCK
+D Led green right angle 2mA 2.1x0.6 SMD
+F http://www.kingbrightusa.com/images/catalog/SPEC/APA2107LZGCK.pdf
+$ENDCMP
+#
+$CMP APT1608F3C
+D LED IR 940nm 150deg. 0603
+F http://www.kingbrightusa.com/images/catalog/SPEC/APT1608F3C.pdf
+$ENDCMP
+#
+$CMP APT2012LZGCK
+D Led green 2mA 2x1.2 SMD
+F http://www.kingbrightusa.com/images/catalog/SPEC/APT2012LZGCK.pdf
+$ENDCMP
+#
+$CMP BAS70H
+D 70 V 100 mA Schottky SOD-123F
+F https://assets.nexperia.com/documents/data-sheet/BAS70_1PS7XSB70_SER.pdf
+$ENDCMP
+#
+$CMP BAT54CWT1
+D Dual Schottky common cathode 30V 0.2A SOT323
+F https://datasheet.octopart.com/BAT54CWT1G-ON-Semiconductor-datasheet-8332887.pdf
+$ENDCMP
+#
+$CMP CPDQC12VEU-HF
+D TVS DIODE 12V 22V 0402C
+F https://media.digikey.com/pdf/Data%20Sheets/Comchip%20PDFs/CPDQC12VEU-HF.pdf
+$ENDCMP
+#
+$CMP D1213A-04S
+D Bidirectional transient-voltage-suppression (TVS) diode array
+K diode TVS array
+$ENDCMP
+#
+$CMP ESDAULC6-3BP6
+D TVS bidirectional array x3 1pF SOT-666
+F https://www.st.com/resource/en/datasheet/esdaulc6-3bp6.pdf
+$ENDCMP
+#
+$CMP HCNR201
+D Isolated Linear Photocoupler, High Gain, Wideband, DIP8/SMD8
+K Isolated Linear Photocoupler
+$ENDCMP
+#
+$CMP KPHBM-2012CGKSEKC
+D LED dual gn-or
+F http://www.kingbright.com/attachments/file/psearch/000/00/00/KPHBM-2012CGKSEKC(Ver.11A).pdf
+$ENDCMP
+#
+$CMP SMCJ24CA
+D Bidirectional transient-voltage-suppression (TVS) diode
+K diode TVS thyrector
+F ~
+$ENDCMP
+#
+$CMP SMCJ6.0CA
+D Bidirectional transient-voltage-suppression (TVS) diode
+K diode TVS thyrector
+F ~
+$ENDCMP
+#
+$CMP STPS1L30
+D 30V 1A Schottky Barrier Rectifier Diode, SMA
+K diode Schottky
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/d4/83/f4/ff/dc/cc/48/7f/CD00001323.pdf/files/CD00001323.pdf/jcr:content/translations/en.CD00001323.pdf
+$ENDCMP
+#
+$CMP US1DWF
+D 200V 1A Ultra fast Rectifier Diode, SOD123F
+F https://www.diodes.com/assets/Datasheets/US1DWF.pdf
+$ENDCMP
+#
+$CMP XZTNI53W-8
+D IR Led SMD
+K IR LED
+$ENDCMP
+#
+#End Doc Library

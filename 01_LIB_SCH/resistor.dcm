@@ -1,0 +1,292 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0R01_0805
+D Resistor 0,01R 1% 50PPM 0805
+F https://www.bourns.com/pdfs/CRF.pdf
+$ENDCMP
+#
+$CMP 0R0402
+D Resistor 0R 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 0R15_0805
+D Resistor 0,15R 1% 0805
+F http://datasheet.octopart.com/RL1220S-R10-F-Susumu-datasheet-5336156.pdf
+$ENDCMP
+#
+$CMP 0R1_0805
+D Resistor 0,1R 1% 0805
+K r res resistor
+F http://datasheet.octopart.com/RL1220S-R10-F-Susumu-datasheet-5336156.pdf
+$ENDCMP
+#
+$CMP 0R39_0805
+D Resistor 0,39R 1% 0805
+F http://datasheet.octopart.com/RL1220S-R10-F-Susumu-datasheet-5336156.pdf
+$ENDCMP
+#
+$CMP 100R0402
+D Resistor 100R 1% 0402
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 100R0603
+D Resistor 100R 1% 0603
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 100k0402
+D Resistor 100k 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 100k0603
+D Resistor 100k 1% 0603
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 10R0402
+D Resistor 10R 1% 0402
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 10k0402
+D Resistor 10k 1% 0402
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 10k0402_1
+D Resistor 10k 1% 0402
+F http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf
+$ENDCMP
+#
+$CMP 10k0603
+D Resistor 10k 1% 0603
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 10k2_0402
+D Resistor 10k2 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 10k5%0402
+D Resistor 10k 5% 0402
+K r res resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf
+$ENDCMP
+#
+$CMP 130R0603
+D Resistor 130R 1% 0603
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 150k0603
+D Resistor 150k 1% 0603
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 150k5%0402
+D Resistor 150k 5% 0402
+F http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf
+$ENDCMP
+#
+$CMP 15k0402
+D Resistor 15k 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 16k5_0402
+D Resistor 16k5 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 1M0402
+D Resistor 1M 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 1k0402
+D Resistor 1k 1% 0402
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 1k0603
+D Resistor 1k 1% 0603
+$ENDCMP
+#
+$CMP 1k2_0402
+D Resistor 1k2 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 22k0402
+D Resistor 22k 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 22k10402
+D Resistor 22.1k 1% 0402
+K r res resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf
+$ENDCMP
+#
+$CMP 2k20402
+D Resistor 2k2 1% 0402
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 330R0402
+D Resistor 330R 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 33R0603
+D Resistor 33R 1% 0603
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 390k0402
+D Resistor 390k 1% 0402
+F http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf
+$ENDCMP
+#
+$CMP 3k0603
+D Resistor 3k 1% 0603
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 3k30402
+D Resistor 3k3 1% 0402
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 3k90402
+D Resistor 3k9 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 3k90603
+D Resistor 3k9 1% 0603
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 41k20402
+D Resistor 41.2k 1% 0402
+F http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf
+$ENDCMP
+#
+$CMP 43R0402
+D Resistor 43R 1% 0402
+F http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf
+$ENDCMP
+#
+$CMP 470R0402
+D Resistor 470R 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 470k0402
+D Resistor 470k 1% 0402
+F http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf
+$ENDCMP
+#
+$CMP 47k50402
+D Resistor 22.1k 1% 0402
+K r res resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf
+$ENDCMP
+#
+$CMP 4k70603
+D Resistor 4k7 1% 0603
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 510R0402
+D Resistor 510R 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 56k0402
+D Resistor 56k 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 56k0603
+D Resistor 56k 1% 0603
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 5k65%0402
+D Resistor 5k6 5% 0402
+F http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf
+$ENDCMP
+#
+$CMP 680R0402
+D Resistor 680R 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 75R0402
+D Resistor 75R 1% 0402
+K r res resistor
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 820k0402
+D Resistor 820k 1% 0402
+F http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf
+$ENDCMP
+#
+$CMP 82k0402
+D Resistor 82k 1% 0402
+F http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf
+$ENDCMP
+#
+$CMP 84k5_0402
+D Resistor 84k5 1% 0402
+F http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf
+$ENDCMP
+#
+$CMP 86k60603
+D Resistor 86k6 1% 0603
+$ENDCMP
+#
+$CMP NTC-10R
+D temperature dependent resistor, negative temperature coefficient (NTC)
+K thermistor NTC resistor sensor RTD
+F ~
+$ENDCMP
+#
+$CMP Resistor_0805
+D Resistor 0805
+F http://www.passivecomponent.com/wp-content/uploads/chipR/ASC_WR.pdf
+$ENDCMP
+#
+$CMP Resistor_1206
+D Resistor 1206
+F http://www.passivecomponent.com/wp-content/uploads/chipR/ASC_WR.pdf
+$ENDCMP
+#
+$CMP Resistor_1210
+D Resistor 1210 1%
+F http://www.passivecomponent.com/wp-content/uploads/chipR/ASC_WR10X.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,37 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002
+D 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET
+F https://assets.nexperia.com/documents/data-sheet/2N7002.pdf
+$ENDCMP
+#
+$CMP APT2012P3BT
+D 0805 Phototransistor
+F https://www.kingbrightusa.com/images/catalog/spec/APT2012P3BT.pdf
+$ENDCMP
+#
+$CMP CSD13380F3T
+D 12V N-CHANNEL FEMTOFET
+K NMOS n-mos n-mosfet transistor
+F http://www.ti.com/lit/ds/symlink/csd13380f3.pdf
+$ENDCMP
+#
+$CMP CSD23382F4
+D MOSFET P-CH 12V 22A 3PICOSTAR
+$ENDCMP
+#
+$CMP Q_GAN_MESFET
+D  Enhancement-mode GaN transistor
+$ENDCMP
+#
+$CMP Si1422DH
+D 12V N-CHANNEL 4A SC70
+F http://www.vishay.com/docs/66701/si1422dh.pdf
+$ENDCMP
+#
+$CMP WSP4099
+F https://datasheet.lcsc.com/szlcsc/Winsok-Semicon-WSP4099_C148423.pdf
+$ENDCMP
+#
+#End Doc Library

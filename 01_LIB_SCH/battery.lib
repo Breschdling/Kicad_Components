@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# CR1025FV1-LF
+#
+DEF CR1025FV1-LF BT 0 0 N N 1 F N
+F0 "BT" 100 100 50 H V L CNN
+F1 "CR1025FV1-LF" 100 0 50 H V L CNN
+F2 "" 0 60 50 V I C CNN
+F3 "http://datasheet.octopart.com/CR1025FV1-LF-Renata-datasheet-12527122.pdf" 0 60 50 V I C CNN
+F4 "CR1025FV1-LF" 200 200 60 H I C CNN "MFP"
+F5 "Lithium primary battery 3V 30mA" 400 400 60 H I C CNN "Description"
+F6 "Renata" 300 300 60 H I C CNN "MFN"
+DRAW
+S -90 80 90 70 0 1 0 F
+S -62 37 58 17 0 1 0 F
+P 2 0 1 0 0 -10 0 10 N
+P 2 0 1 0 0 80 0 100 N
+P 2 0 1 10 20 135 60 135 N
+P 2 0 1 10 40 155 40 115 N
+X + 1 0 200 100 D 50 50 1 1 P
+X - 2 0 -100 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

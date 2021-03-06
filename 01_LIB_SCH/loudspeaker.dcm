@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CVS-1508
+D Loudspeaker 0,5W
+K speaker sound
+F https://www.cui.com/product/resource/cvs-1508.pdf
+$ENDCMP
+#
+$CMP Speaker
+D speaker
+K speaker sound
+$ENDCMP
+#
+#End Doc Library

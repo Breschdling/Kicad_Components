@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SPARK_GAP_0.5mm
+D Spark Gap
+K spark gap esd electrostatic suppression
+F ~
+$ENDCMP
+#
+$CMP Solder_1.4mm
+D Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+#End Doc Library

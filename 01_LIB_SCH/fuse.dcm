@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0805L150SL
+D Resetable fuse 1.5A Itrip 3A 0805
+F http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_lorho_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP 2.6A-24V
+D resettable fuse, polymeric positive temperature coefficient (PPTC)
+K resettable fuse PTC PPTC polyfuse polyswitch
+F ~
+$ENDCMP
+#
+$CMP 3A-12V
+D resettable fuse, polymeric positive temperature coefficient (PPTC)
+K resettable fuse PTC PPTC polyfuse polyswitch
+F ~
+$ENDCMP
+#
+#End Doc Library

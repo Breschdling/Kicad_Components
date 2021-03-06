@@ -1,0 +1,71 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 2.5_NPH
+#
+DEF 2.5_NPH MH 0 40 Y Y 1 F N
+F0 "MH" 0 200 50 H V C CNN
+F1 "2.5_NPH" 0 125 50 H V C CNN
+F2 "hardware:MountingHole_2.5mm" 250 -150 50 H I C CNN
+F3 "" 0 200 50 H I C CNN
+F4 "NA" 100 300 50 H I C CNN "MFP"
+F5 "NA" 200 400 50 H I C CNN "MFN"
+F6 "Mounting hole 2.5mm" 300 500 50 H I C CNN "Description"
+DRAW
+C 0 0 50 0 1 50 N
+ENDDRAW
+ENDDEF
+#
+# Eurocard_Handle
+#
+DEF Eurocard_Handle M 0 40 N Y 1 F N
+F0 "M" 0 -50 50 H V C CNN
+F1 "Eurocard_Handle" 100 -100 50 H V C CNN
+F2 "hardware:EuroCard_Handle" -100 -150 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 100 750 50 0 0 0 3U Normal 0 C C
+S 0 800 200 0 0 1 0 N
+P 4 0 1 0 0 200 200 200 200 250 0 250 N
+X PE 1 400 150 200 L 50 50 1 1 P
+X PE 2 400 50 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# M2.5_NPH_0
+#
+DEF M2.5_NPH_0 MH 0 40 Y Y 1 F N
+F0 "MH" 0 200 50 H V C CNN
+F1 "M2.5_NPH_0" 0 125 50 H V C CNN
+F2 "hardware:MountingHole_2.7mm_M2.5_DIN965" 250 -150 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "NA" 100 300 50 H I C CNN "MFP"
+F5 "NA" 200 400 50 H I C CNN "MFN"
+F6 "Mounting hole 2.7mm" 300 500 50 H I C CNN "Description"
+$FPLIST
+ MountingHole*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 50 N
+ENDDRAW
+ENDDEF
+#
+# M3_NPH
+#
+DEF M3_NPH MH 0 40 Y Y 1 F N
+F0 "MH" 0 200 50 H V C CNN
+F1 "M3_NPH" 0 125 50 H V C CNN
+F2 "hardware:MountingHole_3mm" 250 -150 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "NA" 100 300 50 H I C CNN "MFP"
+F5 "NA" 200 400 50 H I C CNN "MFN"
+F6 "Mounting hole 3.2mm" 300 500 50 H I C CNN "Description"
+$FPLIST
+ MountingHole*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 50 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,992 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 0R01_0805
+#
+DEF 0R01_0805 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "0R01_0805" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0805" 550 110 50 V I C CNN
+F3 "https://www.bourns.com/pdfs/CRF.pdf" 460 250 50 V I C CNN
+F4 "CRF0805-FZ-R010ELF" 180 100 60 V I C CNN "MFP"
+F5 "Bourns" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 0,01R 1% 50PPM 0805" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0R0402
+#
+DEF 0R0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "0R0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "WR04X0000FTL" 180 100 60 V I C CNN "MFP"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 0R 1% 0402" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0R15_0805
+#
+DEF 0R15_0805 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "0R15_0805" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0805" 550 110 50 V I C CNN
+F3 "http://datasheet.octopart.com/RL1220S-R10-F-Susumu-datasheet-5336156.pdf" 460 250 50 V I C CNN
+F4 "RL1220S-R15-F" 180 100 60 V I C CNN "MFP"
+F5 "Susumu" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 0,15R 1% 0805" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0R1_0805
+#
+DEF 0R1_0805 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "0R1_0805" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0805" 550 110 50 V I C CNN
+F3 "http://datasheet.octopart.com/RL1220S-R10-F-Susumu-datasheet-5336156.pdf" 460 250 50 V I C CNN
+F4 "RL1220S-R10-F" 180 100 60 V I C CNN "MFP"
+F5 "Susumu" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 0,1R 1% 0805" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0R39_0805
+#
+DEF 0R39_0805 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "0R39_0805" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0805" 550 110 50 V I C CNN
+F3 "http://datasheet.octopart.com/RL1220S-R10-F-Susumu-datasheet-5336156.pdf" 460 250 50 V I C CNN
+F4 "RL1220S-R39-F" 180 100 60 V I C CNN "MFP"
+F5 "Susumu" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 0,39R 1% 0805" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100R0402
+#
+DEF 100R0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "100R0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 100R 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR04X1000FTL" 180 100 60 V I C CNN "MFP"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100R0603
+#
+DEF 100R0603 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "100R0603" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0603" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 100R 1% 0603" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR06X1000FTL" 180 100 60 V I C CNN "MFP"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100k0402
+#
+DEF 100k0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "100k0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "WR04X1003FTL" 180 100 60 V I C CNN "MFP"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 100k 1% 0402" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100k0603
+#
+DEF 100k0603 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "100k0603" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0603" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 100k 1% 0603" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR06X1003FTL" 180 100 60 V I C CNN "MFP"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10R0402
+#
+DEF 10R0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "10R0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "WR04X10R0FTL" 180 100 60 V I C CNN "MFP"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 10R 1% 0402" 380 300 60 V I C CNN "Description"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10k0402
+#
+DEF 10k0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "10k0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "WR04X1002FTL" 180 100 60 V I C CNN "MFP"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 10k 1% 0402" 380 300 60 V I C CNN "Description"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10k0402_1
+#
+DEF 10k0402_1 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "10k0402_1" -100 -20 50 V V C CNN
+F2 "" 550 110 50 V I C CNN
+F3 "http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf" 460 250 50 V I C CNN
+F4 "Resistor 10k 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Yageo" 280 200 60 V I C CNN "MFN"
+F6 "RC0402FR-0710KL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10k0603
+#
+DEF 10k0603 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "10k0603" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0603" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 10k 1% 0603" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR06X1002FQL " 180 100 60 V I C CNN "MFP"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10k2_0402
+#
+DEF 10k2_0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "10k2_0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "WR04X1022FTL" 180 100 60 V I C CNN "MFP"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 10k2 1% 0402" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10k5%0402
+#
+DEF 10k5%0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "10k5%0402" -90 0 50 V V C CNN
+F2 "" -70 0 50 V I C CNN
+F3 "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf" 80 0 50 V I C CNN
+F4 "ERJ2GEYJ103" 180 100 60 V I C CNN "MFP"
+F5 "Panasonic" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 10k 5% 0402" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 130R0603
+#
+DEF 130R0603 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "130R0603" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0603" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 130R 1% 0603" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR06X1300FTL" 180 100 60 V I C CNN "MFP"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150k0603
+#
+DEF 150k0603 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "150k0603" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0603" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 150k 1% 0603" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR06X1503FTL" 180 100 60 V I C CNN "MFP"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150k5%0402
+#
+DEF 150k5%0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "150k5%0402" -100 -20 50 V V C CNN
+F2 "" 550 110 50 V I C CNN
+F3 "http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf" 460 250 50 V I C CNN
+F4 "Resistor 150k 5% 0402" 380 300 60 V I C CNN "Description"
+F5 "Yageo" 280 200 60 V I C CNN "MFN"
+F6 "RC0402JR-07150KL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15k0402
+#
+DEF 15k0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "15k0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 15k 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR04X1502FTL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 16k5_0402
+#
+DEF 16k5_0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "16k5_0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "WR04X1652FTL" 180 100 60 V I C CNN "MFP"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 16k5 1% 0402" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1M0402
+#
+DEF 1M0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1M0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "WR04X1004FTL" 180 100 60 V I C CNN "MFP"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 1M 1% 0402" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1k0402
+#
+DEF 1k0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1k0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 1k 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR04X1001FTL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1k0603
+#
+DEF 1k0603 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1k0603" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0603" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 1k 1% 0603" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR06X1001FTL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1k2_0402
+#
+DEF 1k2_0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1k2_0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 1k2 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR04X1201FTL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22k0402
+#
+DEF 22k0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "22k0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "WR04X2202FTL" 180 100 60 V I C CNN "MFP"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 22k 1% 0402" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22k10402
+#
+DEF 22k10402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "22k10402" -90 0 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" -70 0 50 V I C CNN
+F3 "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf" 80 0 50 V I C CNN
+F4 "ERJ-2RKF2212X" 180 100 60 V I C CNN "MFP"
+F5 "Panasonic" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 22.1k 1% 0402" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2k20402
+#
+DEF 2k20402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "2k20402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 2k2 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR04X2201FTL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330R0402
+#
+DEF 330R0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "330R0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 330R 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR04X3300FTL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33R0603
+#
+DEF 33R0603 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "33R0603" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0603" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 33R 1% 0603" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR06X33R0FTL" 180 100 60 V I C CNN "MFP"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 390k0402
+#
+DEF 390k0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "390k0402" -100 -20 50 V V C CNN
+F2 "" 550 110 50 V I C CNN
+F3 "http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf" 460 250 50 V I C CNN
+F4 "Resistor 390k 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Yageo" 280 200 60 V I C CNN "MFN"
+F6 "RC0402FR-07390KL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3k0603
+#
+DEF 3k0603 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "3k0603" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0603" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 3k 1% 0603" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR06X3001FTL" 180 100 60 V I C CNN "MFP"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3k30402
+#
+DEF 3k30402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "3k30402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 3k3 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR04X3301FTL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3k90402
+#
+DEF 3k90402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "3k90402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 3k9 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR04X3901FTL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3k90603
+#
+DEF 3k90603 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "3k90603" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0603" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 3k9 1% 0603" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR06X3901FTL" 180 100 60 V I C CNN "MFP"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 41k20402
+#
+DEF 41k20402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "41k20402" -100 -20 50 V V C CNN
+F2 "" 550 110 50 V I C CNN
+F3 "http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf" 460 250 50 V I C CNN
+F4 "Resistor 41.2k 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Yageo" 280 200 60 V I C CNN "MFN"
+F6 "RC0402FR-0741K2L" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 43R0402
+#
+DEF 43R0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "43R0402" -100 -20 50 V V C CNN
+F2 "" 550 110 50 V I C CNN
+F3 "http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf" 460 250 50 V I C CNN
+F4 "Resistor 43R 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Yageo" 280 200 60 V I C CNN "MFN"
+F6 "RC0402FR-0743RL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470R0402
+#
+DEF 470R0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "470R0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 470 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR04X471FTL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470k0402
+#
+DEF 470k0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "470k0402" -100 -20 50 V V C CNN
+F2 "" 550 110 50 V I C CNN
+F3 "http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf" 460 250 50 V I C CNN
+F4 "Resistor 470k 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Yageo" 280 200 60 V I C CNN "MFN"
+F6 "RC0402FR-07470KL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47k50402
+#
+DEF 47k50402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "47k50402" -90 0 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" -70 0 50 V I C CNN
+F3 "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf" 80 0 50 V I C CNN
+F4 "ERJ-2RKF4752X" 180 100 60 V I C CNN "MFP"
+F5 "Panasonic" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 47.5k 1% 0402" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4k70603
+#
+DEF 4k70603 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "4k70603" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0603" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 4k7 1% 0603" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR06X4701FTL" 180 100 60 V I C CNN "MFP"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 510R0402
+#
+DEF 510R0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "510R0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 510 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR04X511FTL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 56k0402
+#
+DEF 56k0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "56k0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "WR04X5602FTL" 180 100 60 V I C CNN "MFP"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 56k 1% 0402" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 56k0603
+#
+DEF 56k0603 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "56k0603" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0603" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 56k 1% 0603" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR06X563JQL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5k65%0402
+#
+DEF 5k65%0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "5k65%0402" -100 -20 50 V V C CNN
+F2 "" 550 110 50 V I C CNN
+F3 "http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf" 460 250 50 V I C CNN
+F4 "Resistor 5k6 5% 0402" 380 300 60 V I C CNN "Description"
+F5 "Yageo" 280 200 60 V I C CNN "MFN"
+F6 "RC0402JR-075K6L" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 680R0402
+#
+DEF 680R0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "680R0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 680R 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR04X6800FTL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 75R0402
+#
+DEF 75R0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "75R0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 75R 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR04X75R0FTL" 180 100 60 V I C CNN "MFP"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 820k0402
+#
+DEF 820k0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "820k0402" -100 -20 50 V V C CNN
+F2 "" 550 110 50 V I C CNN
+F3 "http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf" 460 250 50 V I C CNN
+F4 "Resistor 820k 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Yageo" 280 200 60 V I C CNN "MFN"
+F6 "RC0402FR-07820KL" 180 100 60 V I C CNN "MFP"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 82k0402
+#
+DEF 82k0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "82k0402" -100 -20 50 V V C CNN
+F2 "" 550 110 50 V I C CNN
+F3 "http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6.pdf" 460 250 50 V I C CNN
+F4 "Resistor 82k 1% 0402" 380 300 60 V I C CNN "Description"
+F5 "Yageo" 280 200 60 V I C CNN "MFN"
+F6 "RC0402FR-0782KL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 84k5_0402
+#
+DEF 84k5_0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "84k5_0402" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0402" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "WR04X8452FTL" 180 100 60 V I C CNN "MFP"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "Resistor 84k5 1% 0402" 380 300 60 V I C CNN "Description"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 86k60603
+#
+DEF 86k60603 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "86k60603" -100 -20 50 V V C CNN
+F2 "resistor:R_WALSIN_0603" 550 110 50 V I C CNN
+F3 "http://www.passivecomponent.com/document/Chip-R/Chip-R_catalog.pdf" 460 250 50 V I C CNN
+F4 "Resistor 86k6 1% 0603" 380 300 60 V I C CNN "Description"
+F5 "Walsin" 280 200 60 V I C CNN "MFN"
+F6 "WR06X8662FTL" 180 100 60 V I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# NTC-10R
+#
+DEF NTC-10R TH 0 0 N Y 1 F N
+F0 "TH" -175 0 50 V V C CNN
+F1 "NTC-10R" 125 0 50 V V C CNN
+F2 "Varistors:RV_Disc_D12_W3.9_P7.5" 0 50 50 H I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/1811071531_SOCAY-Elec-SCN10D-9_C305624.pdf" 0 50 50 H I C CNN
+F4 "SOCAY Elec" -75 100 50 V I C CNN "MFN"
+F5 "SCN10D-9" 25 200 50 V I C CNN "MFP"
+$FPLIST
+ *NTC*
+ *Thermistor*
+ PIN?ARRAY*
+ bornier*
+ *Terminal?Block*
+$ENDFPLIST
+DRAW
+A -126 88 7 -265 818 0 1 0 N -120 85 -125 95
+A -110 85 10 1800 -900 0 1 0 N -120 85 -110 75
+A -110 85 10 -900 0 0 1 0 N -110 75 -100 85
+A -110 110 10 0 900 0 1 0 N -100 110 -110 120
+A -110 110 10 900 1800 0 1 0 N -110 120 -120 110
+A -110 110 10 1800 -900 0 1 0 N -120 110 -110 100
+A -104 119 20 -1075 -253 0 1 0 N -110 100 -85 110
+S -40 100 40 -100 0 1 10 N
+P 2 0 1 0 -100 85 -100 110 N
+P 4 0 1 0 -70 100 -70 60 70 -60 70 -100 N
+P 6 0 1 0 -100 -145 -100 -55 -110 -85 -90 -85 -100 -55 -100 -65 F
+P 6 0 1 0 -70 -55 -70 -145 -80 -115 -60 -115 -70 -145 -70 -135 F
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Resistor_0805
+#
+DEF Resistor_0805 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "Resistor_0805" -100 -20 50 V V C CNN
+F2 "resistor:R_0805" 550 110 50 V I C CNN
+F3 "" 460 250 50 V I C CNN
+F4 "Walsin" 0 0 79 H I C CNN "MFN"
+F5 "WR08" 0 0 79 H I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Resistor_1206
+#
+DEF Resistor_1206 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "Resistor_1206" -100 -20 50 V V C CNN
+F2 "resistor:R_1206" 550 110 50 V I C CNN
+F3 "" 460 250 50 V I C CNN
+F4 "WR12" 0 0 79 H I C CNN "MFP"
+F5 "Walsin" 0 0 79 H I C CNN "MFN"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Resistor_1210
+#
+DEF Resistor_1210 R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "Resistor_1210" -100 -20 50 V V C CNN
+F2 "resistor:R_1210" 550 110 50 V I C CNN
+F3 "" 460 250 50 V I C CNN
+F4 "Walsin" 0 0 79 H I C CNN "MFN"
+F5 "WR10X" 0 0 79 H I C CNN "MFP"
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

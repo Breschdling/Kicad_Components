@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 32k768
+D Crystal 32.768 KHz ±20 ppm 12.5 pF
+K quartz ceramic resonator oscillator
+F http://datasheet.octopart.com/9HT10-32.768KDZF-T-TXC-datasheet-21225338.pdf
+$ENDCMP
+#
+$CMP ABM3B-8.000
+D Crystal 8 MHz ±50 ppm 18 pF
+F https://abracon.com/Resonators/abm3b.pdf
+$ENDCMP
+#
+#End Doc Library

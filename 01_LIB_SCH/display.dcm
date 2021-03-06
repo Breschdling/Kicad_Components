@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7SEGMENT_CC
+D Generic 7 segment display, common cathode
+K LED
+F http://shop.cpu.com.tw/product/31448/info/
+$ENDCMP
+#
+$CMP C3018_CC
+D 7 segment display, common cathode
+K LED
+F http://shop.cpu.com.tw/product/31448/info/
+$ENDCMP
+#
+$CMP HLS-2011AR
+D Mini SMD 7 segment display, common cathode
+K LED
+F http://www.hlvled.com/English/Product/8416233831.html
+$ENDCMP
+#
+$CMP HLS-2011BR
+D Mini SMD 7 segment display, common anode
+K LED
+F http://www.hlvled.com/English/Product/8416233831.html
+$ENDCMP
+#
+$CMP UG-2832TSWTG01
+D OLED Display
+$ENDCMP
+#
+#End Doc Library

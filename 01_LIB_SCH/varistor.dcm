@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 331KD10
+D Voltage dependent resistor
+K VDR resistance
+F https://datasheet.lcsc.com/szlcsc/1810161330_Brightking-Elec-TAIWAN-331KD10_C269023.pdf
+$ENDCMP
+#
+#End Doc Library

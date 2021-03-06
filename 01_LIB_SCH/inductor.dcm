@@ -1,0 +1,53 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10uH_10A
+D Inductor with Ferrite Core
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP 10uH_4A
+D Inductor with Ferrite Core
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP 120uH_3A
+D Inductor with Ferrite Core
+K inductor choke coil reactor magnetic
+F https://www.3lcoil.com/products_lookpdf.php?action=proself&pdf=cGsucGRm
+$ENDCMP
+#
+$CMP 6.8uH_11.5A
+D Inductor with Ferrite Core
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP 74437349100
+D Inductor 10uH 3,2A
+K inductor choke coil reactor magnetic
+F http://katalog.we-online.com/pbs/datasheet/74437349100.pdf
+$ENDCMP
+#
+$CMP DLW21HN900SQ2
+D CC choke 90 Ohm 330mA
+F https://datasheet.octopart.com/DLW21HN900SQ2L-Murata-datasheet-21851.pdf
+$ENDCMP
+#
+$CMP LPD4012-562MR
+D Coupled inductor 5.6uH 1.6A 4x4x1.1
+F https://www.coilcraft.com/pdfs/lpd4012.pdf
+$ENDCMP
+#
+$CMP LQH3NPZ1R5MGR
+D Inductor 1u5H 1,4A
+F https://psearch.en.murata.com/inductor/product/LQH3NPZ1R5MGR_.pdf
+$ENDCMP
+#
+$CMP MLZ2012N100LT000
+D 10uH 0.5A 0.3Ohm
+F https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_decoupling_mlz2012_en.pdf
+$ENDCMP
+#
+#End Doc Library

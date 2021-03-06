@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2.5_NPH
+D Mounting hole 2.5mm
+$ENDCMP
+#
+$CMP M2.5_NPH_0
+D Mounting Hole without connection
+K mounting hole
+F ~
+$ENDCMP
+#
+$CMP M3_NPH
+D Mounting Hole without connection
+K mounting hole
+F ~
+$ENDCMP
+#
+#End Doc Library

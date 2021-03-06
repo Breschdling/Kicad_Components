@@ -1,0 +1,169 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10P_2Row_2.54
+D Dual row 2.54 10Pin 8,13mm
+K connector
+F https://www.molex.com/pdm_docs/sd/702871150_sd.pdf
+$ENDCMP
+#
+$CMP 120220-0314
+D Micro spring contact 3.5mm
+F https://media.digikey.com/pdf/Data%20Sheets/ITT%20PDFs/120220-0314_Dwg.pdf
+$ENDCMP
+#
+$CMP 20021112-00010T4LF
+D Dual row  1.27 10Pin SMD right angle
+F https://datasheet.octopart.com/20021112-00010T4LF-FCI-datasheet-11553464.pdf
+$ENDCMP
+#
+$CMP 20021121-00010
+D Dual row  1.27 10Pin SMD
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/20021121.pdf
+$ENDCMP
+#
+$CMP 202656-0021
+D Wire to board P1.2mm 2P male
+F https://www.molex.com/pdm_docs/sd/2026560021_sd.pdf
+$ENDCMP
+#
+$CMP 2295018-2
+D USB 3.1 TYPE C RECEPTACLE-HORIZONTAL SMT SPLASH
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2295018%7FB%7Fpdf%7FEnglish%7FENG_CD_2295018_B.pdf%7F2295018-2
+$ENDCMP
+#
+$CMP 503480-1400
+D FPC P0.50 Back Flip 14 Pin
+F https://www.molex.com/pdm_docs/sd/5034801400_sd.pdf
+$ENDCMP
+#
+$CMP 53261-0671
+D Wire to board P1.25 x6
+F https://www.molex.com/pdm_docs/sd/532610671_sd.pdf
+$ENDCMP
+#
+$CMP 693022010811
+D MICRO SIM-HINGE TYPE-8 PINS
+F http://katalog.we-online.de/em/datasheet/693022010811.pdf
+$ENDCMP
+#
+$CMP 78171-0002
+D Wire to board P1.2mm 2P male
+F https://www.molex.com/pdm_docs/sd/781710002_sd.pdf
+$ENDCMP
+#
+$CMP 8P_2Row_2.54
+D Dual row + housing 2.54 8Pin
+K connector
+F http://datasheet.octopart.com/75869-132LF-FCI-datasheet-8495795.pdf
+$ENDCMP
+#
+$CMP DIN41612_2x32_B
+D Connector Europe 64 contacts ranges A,B
+K connector DIN
+F  ~
+$ENDCMP
+#
+$CMP DIN41612_2x32_B_female
+D Connector Europe 64 contacts ranges A,B
+K connector DIN
+F http://www.morethanall.com/upload/products_pdf/167606950457e0dc8b3f848.pdf
+$ENDCMP
+#
+$CMP Header_1.27x6_female
+D Pin header female P1.27 x6 dual row DIP
+K connector
+F https://connector.cvilux.com/uploads/drawings/100/425/CBC106s.pdf
+$ENDCMP
+#
+$CMP Header_4x2.54
+D Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP ICSP_6P
+D Connector, double row, 02x03, pin header
+K connector
+$ENDCMP
+#
+$CMP JTAG_14_MSP430
+D JTAG header 14 Pin male MSP430
+K connector
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/67996.pdf
+$ENDCMP
+#
+$CMP Molex_2x1.25
+D Wire to board P1.25 x2
+F https://www.molex.com/pdm_docs/sd/533980771_sd.pdf
+$ENDCMP
+#
+$CMP Molex_2x1.25_angled
+D Wire to board P1.25 x2 angled
+F https://www.molex.com/pdm_docs/sd/532610271_sd.pdf
+$ENDCMP
+#
+$CMP Molex_3x1.25
+D Wire to board P1.25 x3
+F https://www.molex.com/pdm_docs/sd/533980371_sd.pdf
+$ENDCMP
+#
+$CMP Molex_3x1.25_angeled
+D Wire to board P1.25 x3 angeled
+F https://www.molex.com/pdm_docs/sd/532610371_sd.pdf
+$ENDCMP
+#
+$CMP Molex_5054730810
+D Connector 8 pin SMD
+F https://www.molex.com/pdm_docs/sd/5054730810_sd.pdf
+$ENDCMP
+#
+$CMP Molex_6x1.25
+D Wire to board P1.25 x6
+F https://www.molex.com/pdm_docs/sd/533980671_sd.pdf
+$ENDCMP
+#
+$CMP Molex_7x1.25
+D Wire to board P1.25 x7
+F https://www.molex.com/pdm_docs/sd/533980771_sd.pdf
+$ENDCMP
+#
+$CMP SFV20R-2STE1HLF
+D FFC/FPC 20 POS 0.5mm Solder SMD
+F http://datasheet.octopart.com/SFV20R-2STE1HLF-FCI-datasheet-11771101.pdf
+$ENDCMP
+#
+$CMP Screw_Terminal
+D Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)
+K screw terminal
+F https://shop.cpu.com.tw/product/4730/info/
+$ENDCMP
+#
+$CMP Solder_Pads_22P
+D Golden Finger 22P pitch 0.5mm
+$ENDCMP
+#
+$CMP Terminal_Block_x15
+F https://shop.cpu.com.tw/product/28129/info/
+$ENDCMP
+#
+$CMP U.FL
+D coaxial connector U.FL
+F https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2801%29/
+$ENDCMP
+#
+$CMP USB3155
+D USB micro 2.0 5POS SLD
+F https://gct.co/pdfjs/web/viewer.html?file=/Files/Drawings/USB3155.pdf&t=1527748816831
+$ENDCMP
+#
+$CMP XF3M(1)-2215-1B
+D FFC/FPC 22 POS 1mm pitch SMD
+F https://omronfs.omron.com/en_US/ecb/products/pdf/en-xf3m.pdf
+$ENDCMP
+#
+$CMP XF3M-0615-1B
+D FFC/FPC 06 POS 1mm pitch SMD
+F https://omronfs.omron.com/en_US/ecb/products/pdf/en-xf3m.pdf
+$ENDCMP
+#
+#End Doc Library

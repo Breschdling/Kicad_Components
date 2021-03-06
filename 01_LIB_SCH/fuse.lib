@@ -1,0 +1,59 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 0805L150SL
+#
+DEF 0805L150SL F 0 0 N Y 1 F N
+F0 "F" -100 0 50 V V C CNN
+F1 "0805L150SL" 100 0 50 V V C CNN
+F2 "fuse:0805L" 50 -200 50 H I L CNN
+F3 "http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_lorho_datasheet.pdf.pdf" -100 0 50 V I C CNN
+F4 "0805L150SL" 0 100 50 V I C CNN "MFP"
+F5 "Littlefuse" 100 200 50 V I C CNN "MFN"
+F6 "Resetable fuse 1.5A Itrip 3A 0805" 200 300 50 V I C CNN "Description"
+DRAW
+S -30 100 30 -100 0 1 10 N
+P 2 0 1 0 0 100 0 -100 N
+P 4 0 1 0 -60 100 -60 60 60 -60 60 -100 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.6A-24V
+#
+DEF 2.6A-24V F 0 0 N Y 1 F N
+F0 "F" -100 0 50 V V C CNN
+F1 "2.6A-24V" 100 0 50 V V C CNN
+F2 "Fuse_Holders_and_Fuses:Fuse_SMD2920" 50 -200 50 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/TLC-Electronic-TLC-LSMD150_C262040.pdf" -100 0 50 V I C CNN
+F4 "TLC Electronic" 0 100 50 V I C CNN "MFN"
+F5 "TLC-LSMD260/24" 100 200 50 V I C CNN "MFP"
+DRAW
+S -30 100 30 -100 0 1 10 N
+P 2 0 1 0 0 100 0 -100 N
+P 4 0 1 0 -60 100 -60 60 60 -60 60 -100 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3A-12V
+#
+DEF 3A-12V F 0 0 N Y 1 F N
+F0 "F" -100 0 50 V V C CNN
+F1 "3A-12V" 100 0 50 V V C CNN
+F2 "Fuse_Holders_and_Fuses:Fuse_SMD2920" 50 -200 50 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/TLC-Electronic-TLC-LSMD150_C262040.pdf" -100 0 50 V I C CNN
+F4 "TLC Electronic" 0 100 50 V I C CNN "MFN"
+F5 "TLC-LSMD300" 100 200 50 V I C CNN "MFP"
+DRAW
+S -30 100 30 -100 0 1 10 N
+P 2 0 1 0 0 100 0 -100 N
+P 4 0 1 0 -60 100 -60 60 60 -60 60 -100 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

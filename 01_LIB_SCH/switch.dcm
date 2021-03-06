@@ -1,0 +1,37 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B3F-1000
+D Push button switch, 4 pin THT
+F http://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf
+$ENDCMP
+#
+$CMP CL-SB-13A-01
+D Slide switch 3pos.
+F https://www.nidec-copal-electronics.com/e/catalog/switch/cl-sb.pdf
+$ENDCMP
+#
+$CMP ESE-16J001
+D Switch detector SPST-NO 10mA 5V
+F https://www3.panasonic.biz/ac/e/search_num/index.jsp?c=detail&part_no=ESE16J001
+$ENDCMP
+#
+$CMP ESE22MV21
+D Switch detector SPST-NO 10mA 5V
+F https://www3.panasonic.biz/ac/e/dl/catalog/index.jsp?series_cd=3583
+$ENDCMP
+#
+$CMP EVQ-P1F05M
+D Push button switch long travel 4 pin THT
+F https://datasheet.octopart.com/EVQ-P1F05M-Panasonic-datasheet-17023092.pdf
+$ENDCMP
+#
+$CMP PTS830GG140GSMTRLFS
+D SPST Tactile switch SMD
+F https://www.ckswitches.com/media/1478/pts830.pdf
+$ENDCMP
+#
+$CMP Tactile_90_Degeree
+F https://www.mouser.tw/datasheet/2/60/pts645-965362.pdf
+$ENDCMP
+#
+#End Doc Library

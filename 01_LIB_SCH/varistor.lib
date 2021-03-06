@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 331KD10
+#
+DEF 331KD10 RV 0 0 N Y 1 F N
+F0 "RV" 125 0 50 V V C CNN
+F1 "331KD10" -125 0 50 V V C CNN
+F2 "varistor:D12mm_W5.4mm_P7.5mm" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Brightking" 0 0 79 H I C CNN "MFN"
+F5 "331KD10" 0 0 79 H I C CNN "MFP"
+DRAW
+T 0 -70 -80 50 0 0 0 U Normal 0 C C
+S -40 -100 40 100 0 1 10 N
+P 3 0 1 0 -75 100 -75 50 75 -50 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,198 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0F2_3V3
+D Super capacitor 0.2F 3.3V SMD 6.8x1.4
+F http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dsk_e_p229.pdf
+$ENDCMP
+#
+$CMP 100nF0402
+D Capacitor 100nF 10V X5R 10% 0402
+F http://static6.arrow.com/aropdfconversion/fd7ab79bb55c6df26b78dba746bf0e97f16c04a0/1355647694508104upy-gphc_x5r_4v-to-50v_25.pdf
+$ENDCMP
+#
+$CMP 100nF0402_02
+D Capacitor 100nF 16V X7R 10% 0402
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 100nF0603
+D Capacitor 100nF 50V X7R 10% 0603
+K cap capacitor
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 10nF0402
+D Capacitor 10nF 50V X7R 10% 0402
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 10nF0603_0
+D Capacitor 10nF 50V COG 10% 0603
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 10pF0402
+D Capacitor 10pF 50V NP0 5% 0402
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 10uF0402
+D Capacitor 10uF 6V3 X5R 20% 0402
+K cap capacitor
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 10uF10V0603
+D Capacitor 10uF 10V X5R 0603
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61A106KE69-01A.pdf
+$ENDCMP
+#
+$CMP 10uF16V0603
+D Capacitor 10uF 16V X5R 0603
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT188R61C106KE13-01.pdf
+$ENDCMP
+#
+$CMP 18pF0402
+D Capacitor 18pF 50V NP0 5% 0402
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 1n2F10V0402
+D Capacitor 1n2F 10V X5R 10% 0402
+F https://psearch.en.murata.com/capacitor/product/GRM1557U1A122JA01%23.html
+$ENDCMP
+#
+$CMP 1nF0603
+D Capacitor 1nF 50V COG 5% 0603
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 1uF0402
+D Capacitor 1uF 10V X5R 10% 0402
+K cap capacitor
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 1uF0603
+D Capacitor 1uF 16V X7R 10% 0603
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 1uF10V0402
+D Capacitor 1uF 10V X5R 10% 0402
+F http://static6.arrow.com/aropdfconversion/fd7ab79bb55c6df26b78dba746bf0e97f16c04a0/1355647694508104upy-gphc_x5r_4v-to-50v_25.pdf
+$ENDCMP
+#
+$CMP 1uF25V0402
+D Capacitor 1uF 25V X5R 0402
+F http://ds.yuden.co.jp/TYCOMPAS/ut/detail.do?productNo=TMK105BJ105KV-F&fileName=TMK105BJ105KV-F_SS&mode=specSheetDownload
+$ENDCMP
+#
+$CMP 220pF0402
+D Capacitor 220pF 50V COG 5% 0402
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 220pF0603
+D Capacitor 220pF 50V COG 10% 0603
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 22uF0603
+D Capacitor 22uF 16V X5R 10% 0805
+F http://datasheet.octopart.com/GRM31CR61C226KE15L-Murata-datasheet-8817987.pdf
+$ENDCMP
+#
+$CMP 22uF10V0603
+D Capacitor 22uF 10V X5R 0603
+F https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1608X5R1A226M080AC
+$ENDCMP
+#
+$CMP 2n2F0402
+D Capacitor 2n2F 50V X7R 10% 0402
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 2u2F1206
+D Capacitor 2u2F 100V X7S 20% 1206
+F https://datasheet.octopart.com/C3216X7S2A225M160AB-TDK-datasheet-41194876.pdf
+$ENDCMP
+#
+$CMP 2u2F16V0402
+D Capacitor 2u2F 16V X5R 0402
+F https://psearch.en.murata.com/capacitor/product/GRM155R61C225KE44%23.html
+$ENDCMP
+#
+$CMP 33uF_16V_Poly
+D 33uF 16V polymer
+K cap capacitor
+F http://datasheet.octopart.com/RNS1D220MDS1JT-Nichicon-datasheet-62308387.pdf
+$ENDCMP
+#
+$CMP 470nF0402
+D Capacitor 100nF 16V X7R 10% 0402
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 47pF0402
+D Capacitor 47pF 50V NP0 5% 0402
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 4n7F0402
+D Capacitor 4.7nF 50V X7R 5% 0402
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 4n7F0603
+D Capacitor 4n7F 50V X7R 10% 0603
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 4u7F0402
+D Capacitor 4u7F 6V3 X5R 20% 0402
+K cap capacitor
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 4u7F6V30402
+D Capacitor 4u7F 6V3 X5R 10% 0402
+F https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1005X5R0J475K050BC
+$ENDCMP
+#
+$CMP 56pF0402
+D Capacitor 56pF 50V NP0 5% 0402
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP 680pF0603
+D Capacitor 680pF 50V COG 10% 0603
+F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf
+$ENDCMP
+#
+$CMP CP
+D Polarised capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CapSense2012
+D Capacitive touch element 20x12 6.8nF
+$ENDCMP
+#
+$CMP Capacitor_0805
+D Capacitor_0805
+F http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf
+$ENDCMP
+#
+$CMP Capacitor_1206
+D Capacitor_1206
+F http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf
+$ENDCMP
+#
+$CMP Capacitor_1210
+D Capacitor_1210
+F http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf
+$ENDCMP
+#
+#End Doc Library

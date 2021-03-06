@@ -1,0 +1,13 @@
+(module PAT9125 (layer F.Cu) (tedit 59EDA33E)
+  (fp_text reference REF** (at 1.97104 2.4384) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.1)))
+  )
+  (fp_text value PAT9125 (at 3.07594 1.143) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.1)))
+  )
+  (model "K:/ES/13_Electrical and Electronics Engineering/Kicad/LIB_PCB/3D/pat9125el package 3d drawings.wrl"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

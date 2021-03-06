@@ -1,0 +1,799 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 0F2_3V3
+#
+DEF 0F2_3V3 C 0 10 N N 1 F N
+F0 "C" 100 250 50 H V L CNN
+F1 "0F2_3V3" 100 50 50 H V L CNN
+F2 "capacitor:ELNA_DSK" -90 -30 50 H I C CNN
+F3 "http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dsk_e_p229.pdf" 250 -600 50 H I C CNN
+F4 "DSK-3R3H204T614-H2L" 150 -850 50 H I C CNN "MFP"
+F5 "ELNA" 150 -750 50 H I C CNN "MFN"
+F6 "Super capacitor 0.2F 3.3V SMD 6.8x1.4" 150 -450 50 H I C CNN "Description"
+DRAW
+S 10 170 10 190 1 1 0 N
+S 10 170 190 170 1 1 0 N
+S 190 130 10 110 1 1 0 F
+S 190 190 10 190 1 1 0 N
+S 190 190 190 170 1 1 0 N
+P 2 1 1 0 30 240 70 240 N
+P 2 1 1 0 50 260 50 220 N
+X ~ 1 100 300 110 D 50 50 1 1 P
+X ~ 2 100 0 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100nF0402
+#
+DEF 100nF0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "100nF0402" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "http://static6.arrow.com/aropdfconversion/fd7ab79bb55c6df26b78dba746bf0e97f16c04a0/1355647694508104upy-gphc_x5r_4v-to-50v_25.pdf" 440 -200 50 H I C CNN
+F4 "CC0402KRX5R6BB104" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 100nF 10V X5R 10% 0402" -20 -380 60 H I C CNN "Description"
+F6 "Yageo" 20 -290 60 H I C CNN "MFN"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100nF0402_02
+#
+DEF 100nF0402_02 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "100nF0402_02" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0402B104K160CT" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 100nF 16V X7R 10% 0402" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100nF0603
+#
+DEF 100nF0603 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "100nF0603" 25 -100 50 H V L CNN
+F2 "capacitor:C_0603_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0603B104K500CT" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 100nF 50V X7R 10% 0603" -20 -380 60 H I C CNN "Description"
+F6 "Walsin" 20 -290 60 H I C CNN "MFN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10nF0402
+#
+DEF 10nF0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "10nF0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0402B103J500CT" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 10nF 50V X7R 10% 0402" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10nF0603_0
+#
+DEF 10nF0603_0 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "10nF0603_0" 25 -100 50 H V L CNN
+F2 "capacitor:C_0603_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0603N103J500" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 10nF 50V COG 10% 0603" -20 -380 60 H I C CNN "Description"
+F6 "Walsin" 20 -290 60 H I C CNN "MFN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10pF0402
+#
+DEF 10pF0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "10pF0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0402N100J500CT" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 10pF 50V NP0 5% 0402" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF0402
+#
+DEF 10uF0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "10uF0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0402X106M6R3CT" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 10uF 6V3 X5R 20% 0402" -20 -380 60 H I C CNN "Description"
+F6 "Walsin" 20 -290 60 H I C CNN "MFN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF10V0603
+#
+DEF 10uF10V0603 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "10uF10V0603" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61A106KE69-01A.pdf" 440 -200 50 H I C CNN
+F4 "GRM188R61A106KE69D" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 10uF 10V X5R 0603" -20 -380 60 H I C CNN "Description"
+F6 "Murata" 20 -290 60 H I C CNN "MFN"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF16V0603
+#
+DEF 10uF16V0603 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "10uF16V0603" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT188R61C106KE13-01.pdf" 440 -200 50 H I C CNN
+F4 "GRT188R61C106KE13D" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 10uF 16V X5R 0603" -20 -380 60 H I C CNN "Description"
+F6 "Murata" 20 -290 60 H I C CNN "MFN"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 18pF0402
+#
+DEF 18pF0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "18pF0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0402N180J500CT" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 18pF 50V NP0 5% 0402" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1n2F10V0402
+#
+DEF 1n2F10V0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "1n2F10V0402" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "https://psearch.en.murata.com/capacitor/product/GRM1557U1A122JA01%23.html" 440 -200 50 H I C CNN
+F4 "GRM1557U1A122JA01D" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 1n2F 10V X5R 10% 0402" -20 -380 60 H I C CNN "Description"
+F6 "Murata" 20 -290 60 H I C CNN "MFN"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1nF0603
+#
+DEF 1nF0603 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "1nF0603" 25 -100 50 H V L CNN
+F2 "capacitor:C_0603_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0603N102J500CT" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 1nF 50V COG 5% 0603" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uF0402
+#
+DEF 1uF0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "1uF0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0402X105K100CT" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 1uF 10V X5R 10% 0402" -20 -380 60 H I C CNN "Description"
+F6 "Walsin" 20 -290 60 H I C CNN "MFN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uF0603
+#
+DEF 1uF0603 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "1uF0603" 25 -100 50 H V L CNN
+F2 "capacitor:C_0603_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0603B105K160CT" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 1uF 16V X7R 10% 0603" -20 -380 60 H I C CNN "Description"
+F6 "Walsin" 20 -290 60 H I C CNN "MFN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uF10V0402
+#
+DEF 1uF10V0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "1uF10V0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://static6.arrow.com/aropdfconversion/fd7ab79bb55c6df26b78dba746bf0e97f16c04a0/1355647694508104upy-gphc_x5r_4v-to-50v_25.pdf" 440 -200 50 H I C CNN
+F4 "CC0402KRX5R6BB105" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 1uF 10V X5R 10% 0402" -20 -380 60 H I C CNN "Description"
+F6 "Yageo" 20 -290 60 H I C CNN "MFN"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uF25V0402
+#
+DEF 1uF25V0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "1uF25V0402" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "http://ds.yuden.co.jp/TYCOMPAS/ut/detail.do?productNo=TMK105BJ105KV-F&fileName=TMK105BJ105KV-F_SS&mode=specSheetDownload" 440 -200 50 H I C CNN
+F4 "TMK105BJ105KV-F" 125 200 60 H I C CNN "MFP"
+F5 "Capacitor 1uF 25V X5R 0402" -20 -380 60 H I C CNN "Description"
+F6 "Taiyo Yuden" 20 -290 60 H I C CNN "MFN"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220pF0402
+#
+DEF 220pF0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "220pF0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0402N221J500CT" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 220pF 50V COG 5% 0402" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220pF0603
+#
+DEF 220pF0603 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "220pF0603" 25 -100 50 H V L CNN
+F2 "capacitor:C_0603_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0603N221J500CT" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 220pF 50V COG 10% 0603" -20 -380 60 H I C CNN "Description"
+F6 "Walsin" 20 -290 60 H I C CNN "MFN"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22uF0603
+#
+DEF 22uF0603 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "22uF0603" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "http://datasheet.octopart.com/GRM31CR61C226KE15L-Murata-datasheet-8817987.pdf" 440 -200 50 H I C CNN
+F4 "GRM31CR61C226KE15L " 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 22uF 16V X5R 10% 0805" -20 -380 60 H I C CNN "Description"
+F6 "Murata" 20 -290 60 H I C CNN "MFN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22uF10V0603
+#
+DEF 22uF10V0603 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "22uF10V0603" 25 -100 50 H V L CNN
+F2 "capacitor:C_0603_Walsin" 38 -150 50 H I C CNN
+F3 "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1608X5R1A226M080AC" 440 -200 50 H I C CNN
+F4 "C1608X5R1A226M080AC" 50 -470 60 H I C CNN "MFP"
+F5 "TDK" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 22uF 10V X5R 0603" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2n2F0402
+#
+DEF 2n2F0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "2n2F0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0402B222K500CT" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 2n2F 50V X7R 10% 0402" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2u2F1206
+#
+DEF 2u2F1206 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "2u2F1206" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "https://datasheet.octopart.com/C3216X7S2A225M160AB-TDK-datasheet-41194876.pdf" 440 -200 50 H I C CNN
+F4 "C3216X7S2A225M160AB" 50 -470 60 H I C CNN "MFP"
+F5 "TDK" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 2u2F 100V X7S 20% 1206" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2u2F16V0402
+#
+DEF 2u2F16V0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "2u2F16V0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "https://psearch.en.murata.com/capacitor/product/GRM155R61C225KE44%23.html" 440 -200 50 H I C CNN
+F4 "GRM155R61C225KE44D" 50 -470 60 H I C CNN "MFP"
+F5 "Murata" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 2u2F 16V X5R 0402" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33uF_16V_Poly
+#
+DEF 33uF_16V_Poly C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "33uF_16V_Poly" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "http://datasheet.octopart.com/RNS1D220MDS1JT-Nichicon-datasheet-62308387.pdf" 25 100 50 H I C CNN
+F4 "33uF 16V polymer" 325 400 60 H I C CNN "Description"
+F5 "Nichicon" 225 300 60 H I C CNN "MFN"
+F6 "RNS1C330MDS1JT" 125 200 60 H I C CNN "MFP"
+DRAW
+S -90 20 -90 40 0 1 0 N
+S -90 20 90 20 0 1 0 N
+S 90 -20 -90 -40 0 1 0 F
+S 90 40 -90 40 0 1 0 N
+S 90 40 90 20 0 1 0 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470nF0402
+#
+DEF 470nF0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "470nF0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0402X474K6R3CT" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 470nF 6V3 X5R 10% 0402" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47pF0402
+#
+DEF 47pF0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "47pF0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0402N470J500CT" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 47pF 50V NP0 5% 0402" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4n7F0402
+#
+DEF 4n7F0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "4n7F0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0402B472J500CT" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 4.7nF 50V X7R 5% 0402" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4n7F0603
+#
+DEF 4n7F0603 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "4n7F0603" 25 -100 50 H V L CNN
+F2 "capacitor:C_0603_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0603B472K500CT" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 4n7F 50V X7R 10% 0603" -20 -380 60 H I C CNN "Description"
+F6 "Walsin" 20 -290 60 H I C CNN "MFN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4u7F0402
+#
+DEF 4u7F0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "4u7F0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0402X475M6R3CT" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 4u7F 6V3 X5R 20% 0402" -20 -380 60 H I C CNN "Description"
+F6 "Walsin" 20 -290 60 H I C CNN "MFN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4u7F6V30402
+#
+DEF 4u7F6V30402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "4u7F6V30402" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1005X5R0J475K050BC" 440 -200 50 H I C CNN
+F4 "C1005X5R0J475K050BC" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 4u7F 6V3 X5R 10% 0402" -20 -380 60 H I C CNN "Description"
+F6 "TDK" 20 -290 60 H I C CNN "MFN"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 56pF0402
+#
+DEF 56pF0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "56pF0402" 25 -100 50 H V L CNN
+F2 "capacitor:C_0402_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0402N560J500CT" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+F6 "Capacitor 56pF 50V NP0 5% 0402" -20 -380 60 H I C CNN "Description"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 680pF0603
+#
+DEF 680pF0603 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "680pF0603" 25 -100 50 H V L CNN
+F2 "capacitor:C_0603_Walsin" 38 -150 50 H I C CNN
+F3 "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf" 440 -200 50 H I C CNN
+F4 "0603N681J500CT" 50 -470 60 H I C CNN "MFP"
+F5 "Capacitor 680pF 50V COG 10% 0603" -20 -380 60 H I C CNN "Description"
+F6 "Walsin" 20 -290 60 H I C CNN "MFN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CP
+#
+DEF CP C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "CP" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ CP_*
+$ENDFPLIST
+DRAW
+S -90 20 -90 40 0 1 0 N
+S -90 20 90 20 0 1 0 N
+S 90 -20 -90 -40 0 1 0 F
+S 90 40 -90 40 0 1 0 N
+S 90 40 90 20 0 1 0 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CapSense2012
+#
+DEF CapSense2012 C 0 40 Y Y 1 F N
+F0 "C" 700 500 50 H V C CNN
+F1 "CapSense2012" 650 -400 50 H V C CNN
+F2 "capacitor:CapSense2012Cut" 600 400 50 H I C CNN
+F3 "" 700 500 50 H I C CNN
+F4 "PCB" 800 600 50 H I C CNN "MFN"
+F5 "PCB" 900 700 50 H I C CNN "MFP"
+F6 "Capacitive touch element 20x12" 1000 800 50 H I C CNN "Description"
+DRAW
+C 0 79 4 0 1 20 N
+C 0 150 71 0 1 0 N
+P 2 1 1 20 -50 130 50 130 N
+P 2 1 1 20 -50 170 50 170 N
+P 2 1 1 0 0 130 0 110 N
+P 2 1 1 0 0 170 0 190 N
+X ~ 1 0 300 110 D 50 50 1 1 P
+X ~ 2 0 0 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Capacitor_0805
+#
+DEF Capacitor_0805 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "Capacitor_0805" 25 -100 50 H V L CNN
+F2 "capacitor:C_0805" 38 -150 50 H I C CNN
+F3 "" 440 -200 50 H I C CNN
+F4 "0805" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Capacitor_1206
+#
+DEF Capacitor_1206 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "Capacitor_1206" 25 -100 50 H V L CNN
+F2 "capacitor:C_1206" 38 -150 50 H I C CNN
+F3 "" 440 -200 50 H I C CNN
+F4 "1206" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Capacitor_1210
+#
+DEF Capacitor_1210 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "Capacitor_1210" 25 -100 50 H V L CNN
+F2 "capacitor:C_1210" 38 -150 50 H I C CNN
+F3 "" 440 -200 50 H I C CNN
+F4 "1210" 50 -470 60 H I C CNN "MFP"
+F5 "Walsin" 20 -290 60 H I C CNN "MFN"
+DRAW
+P 2 0 1 20 -50 -20 50 -20 N
+P 2 0 1 20 -50 20 50 20 N
+P 2 0 1 0 0 -20 0 -40 N
+P 2 0 1 0 0 20 0 40 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

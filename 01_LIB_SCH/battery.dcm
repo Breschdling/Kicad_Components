@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CR1025FV1-LF
+D Lithium primary battery 3V 30mA
+K battery cell
+F http://datasheet.octopart.com/CR1025FV1-LF-Renata-datasheet-12527122.pdf
+$ENDCMP
+#
+#End Doc Library

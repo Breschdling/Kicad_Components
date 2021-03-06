@@ -1,0 +1,301 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC14D
+D hex inverter
+K HCMOS not inverter
+F http://www.nxp.com/documents/data_sheet/74HC_HCT04.pdf
+$ENDCMP
+#
+$CMP 74HC241
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT241.pdf
+$ENDCMP
+#
+$CMP 74HC245
+D Octal BUS Transceivers, 3-State outputs
+K TTL BUS 3State
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT245.pdf
+$ENDCMP
+#
+$CMP 74LVC244
+D 8bits Buffer/Line Driver 3 state TSSOP20
+F http://www.nxp.com/documents/data_sheet/74HC_HCT244.pdf
+$ENDCMP
+#
+$CMP 74LVC2G02
+D Dual NOR Gate, LVC VSSOP8
+F https://assets.nexperia.com/documents/data-sheet/74LVC2G02.pdf
+$ENDCMP
+#
+$CMP 74LVC2G08
+D Dual AND Gate, LVC, VSSO8
+F http://www.ti.com/lit/ds/symlink/sn74lvc2g08.pdf
+$ENDCMP
+#
+$CMP AT42QT1010
+D Capacitive touch IC SMD UDFN8
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001946A.pdf
+$ENDCMP
+#
+$CMP ATECC508A
+D Crypto engine I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005928A.pdf
+$ENDCMP
+#
+$CMP ATECC508A_UDFN
+D Crypto engine I2C UDFN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005928A.pdf
+$ENDCMP
+#
+$CMP CAT24C32
+F https://www.onsemi.com/pub/Collateral/CAT24C32-D.PDF
+$ENDCMP
+#
+$CMP CP2102N
+D USB/UART Bridge QFN28 5x5
+F https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
+$ENDCMP
+#
+$CMP DRV5032FADMRT
+D Hall sensor X2SON 4.8mT
+F http://www.ti.com/lit/ds/symlink/drv5032.pdf
+$ENDCMP
+#
+$CMP DRV5033
+D Hall sensor To92 6.9mT
+F http://www.ti.com/lit/ds/symlink/drv5033.pdf
+$ENDCMP
+#
+$CMP DRV8871
+D Motor driver 3,6A SO8
+F http://www.ti.com/lit/ds/symlink/drv8871.pdf
+$ENDCMP
+#
+$CMP FT231XS
+D USB UART bridge
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf
+$ENDCMP
+#
+$CMP ISL97656
+D Boost converter 4A
+F https://www.intersil.com/content/dam/Intersil/documents/isl9/isl97656.pdf
+$ENDCMP
+#
+$CMP L7985
+D Switching regulator 2A 38V HSOP8
+F https://www.st.com/resource/en/datasheet/l7985.pdf
+$ENDCMP
+#
+$CMP LIS2DW12
+D ultra-low-power 3-axis acceolerometer LGA-12
+F https://www.st.com/resource/en/datasheet/lis2dw12.pdf
+$ENDCMP
+#
+$CMP LM317M
+D 1A 35V Adjustable Linear Regulator, SOT-89/SOT-223/TO-220/TO-252/TO-263
+K Adjustable Voltage Regulator 1A Positive
+F https://www.st.com/resource/en/datasheet/lm317m.pdf
+$ENDCMP
+#
+$CMP LM393DT
+D Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/SSOP-8
+K dual comparator
+F http://www.ti.com/lit/ds/symlink/lm393-n.pdf
+$ENDCMP
+#
+$CMP LSM6DSM
+D Accelorometer IC
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/76/27/cf/88/c5/03/42/6b/DM00218116.pdf/files/DM00218116.pdf/jcr:content/translations/en.DM00218116.pdf
+$ENDCMP
+#
+$CMP M24256-DFMC6TG
+D EEPROM 256KBIT 400KHZ 8UFDFPN
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/b6/38/3e/3f/fe/a6/48/c2/CD00001891.pdf/files/CD00001891.pdf/jcr:content/translations/en.CD00001891.pdf
+$ENDCMP
+#
+$CMP M41T82
+D Real time clock I2C
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/2e/9b/1a/a7/8b/be/47/70/CD00127116.pdf/files/CD00127116.pdf/jcr:content/translations/en.CD00127116.pdf
+$ENDCMP
+#
+$CMP MAX14870
+D Motor driver 4.5V to 36V 2.5A TDFN12
+F https://datasheets.maximintegrated.com/en/ds/MAX14870-MAX14872.pdf
+$ENDCMP
+#
+$CMP MCP73830L
+D IC Battery charger 200mA, precharge 10%
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005049D.pdf
+$ENDCMP
+#
+$CMP MLX90632
+D Temperature sensor IR SMD
+F https://www.melexis.com/-/media/files/documents/datasheets/mlx90632-datasheet-melexis.pdf
+$ENDCMP
+#
+$CMP MSP430FR6989IPNR
+D MSP4306989
+F http://www.ti.com/lit/ds/symlink/msp430fr6989.pdf
+$ENDCMP
+#
+$CMP MSP430G2553IRHB32
+D 16 Bit MCU 16kB Flash, 0.5kB RAM, QFN-32
+F http://www.ti.com/lit/ds/symlink/msp430g2153.pdf
+$ENDCMP
+#
+$CMP NCS2333
+D Dual rail to rail Opamp low offset 5.5V DFN8
+F http://www.onsemi.com/pub/Collateral/NCS333-D.PDF
+$ENDCMP
+#
+$CMP NCV33161
+F https://www.onsemi.com/pub/Collateral/MC34161-D.PDF
+$ENDCMP
+#
+$CMP NLAS8252
+D Analog switch 2:3 UQFN12
+F https://www.onsemi.com/pub/Collateral/NLAS8252-D.PDF
+$ENDCMP
+#
+$CMP PAM8304
+D Class D audio amp
+F https://www.diodes.com/assets/Datasheets/PAM8304.pdf
+$ENDCMP
+#
+$CMP PAT9125EL-TKIT
+D Motion Sensor, I2C, LGA 9
+F http://www.pixart.com.tw/upload/PAT9125EL_GDS_V1.2_31052017_20171011150843.pdf
+$ENDCMP
+#
+$CMP PAT9125EL-TKMT
+D Motion Sensor, SPI, LGA 9
+F http://www.pixart.com.tw/upload/PAT9125EL_GDS_V1.2_31052017_20171011150843.pdf
+$ENDCMP
+#
+$CMP PAT9161EV
+D Distance Sensor, I2C, LGA 8
+F http://confluence.shl-internal.com/download/attachments/8358367/PAT9161EV_DS_v0.7_20161011_Confidential.pdf?api=v2
+$ENDCMP
+#
+$CMP PCA9509GM
+D I2C level shifter XQFN8
+F https://www.nxp.com/docs/en/data-sheet/PCA9509.pdf
+$ENDCMP
+#
+$CMP PCA9515
+F https://www.nxp.com/docs/en/data-sheet/PCA9515.pdf
+$ENDCMP
+#
+$CMP PCA9535A
+D 16-bit I/O expander, I2C QFN24
+F https://www.nxp.com/docs/en/data-sheet/PCA9535A.pdf
+$ENDCMP
+#
+$CMP PCA9557
+D Port expander I2C 8 GPIO HVQFN16
+F https://www.nxp.com/docs/en/data-sheet/PCA9557.pdf
+$ENDCMP
+#
+$CMP SC630A
+D IC Charge pump 300mA
+F https://www.semtech.com/uploads/documents/sc630a.pdf
+$ENDCMP
+#
+$CMP SIP32472
+D High side switch 46 mR 1.2A uDFN4
+F http://www.vishay.com/docs/62512/sip32472.pdf
+$ENDCMP
+#
+$CMP SIP32509
+D High side switch 44 mR 3A TSOT23-6
+F http://www.vishay.com/docs/62754/sip32508.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G08
+D Single 2-Input Positive-AND Gate
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g08.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G32
+D Single 2-Input Positive-OR Gate
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g32.pdf
+$ENDCMP
+#
+$CMP STBC03
+D Li charger 1S 0.65A Flip30
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/05/ea/e8/4e/a7/a6/4a/c6/DM00338132/files/DM00338132.pdf/jcr:content/translations/en.DM00338132.pdf
+$ENDCMP
+#
+$CMP STM32L451VET6
+D ARM Cortex-M4 MCU, 512KB flash, 160KB RAM, 80MHz, 83 GPIO, LQFP-100
+F https://www.st.com/resource/en/datasheet/stm32l451ve.pdf
+$ENDCMP
+#
+$CMP STM6822SWY6F
+D Reset generator 2.93V + watchdog SOT23-5
+F https://www.st.com/resource/en/datasheet/stm6321.pdf
+$ENDCMP
+#
+$CMP TM1640
+F http://www.titanmic.com/pic/other/2014-11-20-15-36-028.pdf
+$ENDCMP
+#
+$CMP TPS54302
+F https://www.ti.com/lit/ds/symlink/tps54302.pdf
+$ENDCMP
+#
+$CMP TPS54335A
+F http://www.ti.com/lit/ds/symlink/tps54335a.pdf
+$ENDCMP
+#
+$CMP TPS61046
+D DCDC boost 28V 0.9A WCSP
+F http://www.ti.com/lit/ds/symlink/tps61046.pdf
+$ENDCMP
+#
+$CMP TPS63031
+D Buck Boost 1A 1.8V-5.5V
+F http://www.ti.com/lit/ds/symlink/tps63031.pdf
+$ENDCMP
+#
+$CMP TRF7970A
+D RFID Multi IC SPI QFN32
+F http://www.ti.com/lit/ds/symlink/trf7970a.pdf
+$ENDCMP
+#
+$CMP TS914
+D Rail to railo, Quad-Operational Amplifiers, SOP-14
+K quad opamp
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/2f/cf/72/62/84/07/40/d9/CD00000990.pdf/files/CD00000990.pdf/jcr:content/translations/en.CD00000990.pdf
+$ENDCMP
+#
+$CMP TSC1021A
+D Current sense amplifier G=20 SMD TSSOP8
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/6a/1c/12/b1/0b/87/42/0f/CD00283176.pdf/files/CD00283176.pdf/jcr:content/translations/en.CD00283176.pdf
+$ENDCMP
+#
+$CMP W25X40CL
+D Flash memory SPI
+F https://www.winbond.com/resource-files/w25x40cl_e01.pdf
+$ENDCMP
+#
+$CMP W25X40CL_WSON
+D Flash memory SPI WSON8
+F https://www.winbond.com/resource-files/w25x40cl_e01.pdf
+$ENDCMP
+#
+$CMP XTR105
+D 4-20mA transmitter
+F http://www.ti.com/lit/ds/symlink/xtr105.pdf
+$ENDCMP
+#
+$CMP bq24075
+D Battery charger 1.5A 4.2V VQFN16
+F http://www.ti.com/lit/ds/symlink/bq24075.pdf
+$ENDCMP
+#
+$CMP bq27441-G1
+D Battery gauge ic VSON12
+F http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf
+$ENDCMP
+#
+#End Doc Library
