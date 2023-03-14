@@ -274,6 +274,16 @@ K thermistor NTC resistor sensor RTD
 F ~
 $ENDCMP
 #
+$CMP Pot_3296W
+D Potentiometer Bourns 3296W copy
+K resistor variable
+F https://datasheet.lcsc.com/szlcsc/Chengdu-Guosheng-Tech-3296W-1-201_C118939.pdf
+$ENDCMP
+#
+$CMP Resistor_0.5W-THT
+D Resistor 0805
+$ENDCMP
+#
 $CMP Resistor_0805
 D Resistor 0805
 F http://www.passivecomponent.com/wp-content/uploads/chipR/ASC_WR.pdf
@@ -287,6 +297,10 @@ $ENDCMP
 $CMP Resistor_1210
 D Resistor 1210 1%
 F http://www.passivecomponent.com/wp-content/uploads/chipR/ASC_WR10X.pdf
+$ENDCMP
+#
+$CMP Resistor_5W
+D Resistor 0805
 $ENDCMP
 #
 #End Doc Library

@@ -160,6 +160,12 @@ D Capacitor 4u7F 6V3 X5R 10% 0402
 F https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1005X5R0J475K050BC
 $ENDCMP
 #
+$CMP 500F-2V7
+D 33uF 16V polymer
+K cap capacitor
+F http://www.samwha.com/electric/product/list_pdf1/db.pdf
+$ENDCMP
+#
 $CMP 56pF0402
 D Capacitor 56pF 50V NP0 5% 0402
 F http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf

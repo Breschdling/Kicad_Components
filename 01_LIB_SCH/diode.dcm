@@ -30,6 +30,12 @@ D Dual Schottky common cathode 30V 0.2A SOT323
 F https://datasheet.octopart.com/BAT54CWT1G-ON-Semiconductor-datasheet-8332887.pdf
 $ENDCMP
 #
+$CMP BZX85Cxx
+D 1300mW Zener Diode, DO-41
+K zener diode
+F https://www.vishay.com/docs/85607/bzx85.pdf
+$ENDCMP
+#
 $CMP CPDQC12VEU-HF
 D TVS DIODE 12V 22V 0402C
 F https://media.digikey.com/pdf/Data%20Sheets/Comchip%20PDFs/CPDQC12VEU-HF.pdf

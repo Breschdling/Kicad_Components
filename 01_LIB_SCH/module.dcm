@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BluePill
+D STM32 Blue Pill ; KLC compliant
+K module blue pill STM32
+F https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html
+$ENDCMP
+#
 $CMP CYBLE-214009-00
 D BLE microcontroller module, SMD
 F http://www.cypress.com/file/223701/download
